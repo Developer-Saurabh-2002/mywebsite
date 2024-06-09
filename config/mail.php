@@ -1,21 +1,4 @@
 <?php
-$servername = 'localhost';
-$username = 'root';
-$password = '';
-$db_name = 'brandshop';
-// Create connection
-$conn = mysqli_connect($servername, $username, $password, $db_name);
-// Check connection
-$result = mysqli_query($conn, 'SELECT * FROM email_config LIMIT 1');
-$result = mysqli_fetch_assoc($result);
-$host = $result['host'];
-$port = (int) $result['port'];
-$username = $result['username'];
-$password = $result['password'];
-$enc = $result['secure'];
-$name = $result['from_name'];
-
-
 
 return [
 
@@ -45,22 +28,20 @@ return [
     | sending an e-mail. You will specify which one you are using for your
     | mailers below. You are free to add additional mailers as required.
     |
-    | Supported: "smtp", "sendmail", "mailgun", "ses", "ses-v2",
-    |            "postmark", "log", "array", "failover"
+    | Supported: "smtp", "sendmail", "mailgun", "ses",
+    |            "postmark", "log", "array"
     |
     */
 
     'mailers' => [
         'smtp' => [
             'transport' => 'smtp',
-            'url' => env('MAIL_URL'),
-            'host' => $host,
-            'port' =>  $port,
-            'encryption' => $enc,
-            'username' => $username,
-            'password' => $password,
+            'host' => env('MAIL_HOST', 'smtp.mailgun.org'),
+            'port' => env('MAIL_PORT', 587),
+            'encryption' => env('MAIL_ENCRYPTION', 'tls'),
+            'username' => env('MAIL_USERNAME'),
+            'password' => env('MAIL_PASSWORD'),
             'timeout' => null,
-            'local_domain' => env('MAIL_EHLO_DOMAIN'),
         ],
 
         'ses' => [
@@ -69,22 +50,15 @@ return [
 
         'mailgun' => [
             'transport' => 'mailgun',
-            // 'client' => [
-            //     'timeout' => 5,
-            // ],
         ],
 
         'postmark' => [
             'transport' => 'postmark',
-            // 'message_stream_id' => null,
-            // 'client' => [
-            //     'timeout' => 5,
-            // ],
         ],
 
         'sendmail' => [
             'transport' => 'sendmail',
-            'path' => env('MAIL_SENDMAIL_PATH', '/usr/sbin/sendmail -bs -i'),
+            'path' => '/usr/sbin/sendmail -bs',
         ],
 
         'log' => [
@@ -94,14 +68,6 @@ return [
 
         'array' => [
             'transport' => 'array',
-        ],
-
-        'failover' => [
-            'transport' => 'failover',
-            'mailers' => [
-                'smtp',
-                'log',
-            ],
         ],
     ],
 
@@ -117,9 +83,10 @@ return [
     */
 
     'from' => [
-        'address' => $username,
-        'name' => $name,
+        'address' => env('MAIL_FROM_ADDRESS', 'hello@example.com'),
+        'name' => env('MAIL_FROM_NAME', 'Example'),
     ],
+
     /*
     |--------------------------------------------------------------------------
     | Markdown Mail Settings

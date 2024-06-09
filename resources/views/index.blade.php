@@ -85,52 +85,26 @@
                     <div class="col-sm-6">
                         <div class="single-about-txt text-justify">
                             <h3>
-                                I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed
-                                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-                                quis nostrud.  I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed
-                                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-                                quis nostrud.  I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed
-                                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-                                quis nostrud.  I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed
-                                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-                                quis nostrud.  I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed
-                                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-                                quis nostrud.
+                                I am a dedicated Full-Stack Laravel Developer from Muzaffarpur, Bihar, India, bringing
+                                over 1.5 years of hands-on experience in crafting high-quality web solutions for diverse
+                                organizations. Proficient in Laravel, PHP, HTML, CSS, jQuery, and Bootstrap, along with
+                                other web development tools and frameworks, I possess a knack for delivering projects
+                                with precision and efficiency. My journey commenced with an internship where I delved
+                                into the world of professional development workflows and mastered the Laravel framework.
+                                Since then, I've been dedicated to developing and maintaining web applications, ensuring
+                                timely delivery and top-notch quality. With a keen eye for detail and a passion for
+                                problem-solving, I thrive on creating innovative solutions that meet and exceed client
+                                expectations. Alongside my professional endeavors, I've also garnered recognition for
+                                academic excellence and achievements in extracurricular activities. Driven by a love for
+                                web development and a commitment to continuous learning, I'm eager to embark on new
+                                challenges and contribute meaningfully to any team or project.
                             </h3>
                         </div>
                     </div>
                     <div class="col-sm-offset-1 col-sm-5">
                         <div class="single-about-img">
-                            <img src="assets/images/about/profile_image.jpg" alt="profile_image">
-                            <div class="about-list-icon">
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-facebook" aria-hidden="true"></i>
-                                        </a>
-                                    </li><!-- / li -->
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-dribbble" aria-hidden="true"></i>
-                                        </a>
-                                    </li><!-- / li -->
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-twitter" aria-hidden="true"></i>
-                                        </a>
-                                    </li><!-- / li -->
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-linkedin" aria-hidden="true"></i>
-                                        </a>
-                                    </li><!-- / li -->
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-instagram" aria-hidden="true"></i>
-                                        </a>
-                                    </li><!-- / li -->
-                                </ul><!-- / ul -->
-                            </div><!-- /.about-list-icon -->
+                            <img src="assets/images/mypic.png" alt="profile_image">
+
                         </div>
                     </div>
                 </div>
@@ -146,11 +120,11 @@
         <div class="container">
             <div class="education-horizontal-timeline">
                 <div class="row">
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <div class="single-horizontal-timeline">
                             <div class="experience-time">
-                                <h2>2008 - 2010</h2>
-                                <h3>master <span>of </span> computer science</h3>
+                                <h2>2016 - 2017</h2>
+                                <h3>Class 10</h3>
                             </div><!--/.experience-time-->
                             <div class="timeline-horizontal-border">
                                 <i class="fa fa-circle" aria-hidden="true"></i>
@@ -159,22 +133,24 @@
                             <div class="timeline">
                                 <div class="timeline-content">
                                     <h4 class="title">
-                                        university of north carolina
+                                        Dolphin Public School
                                     </h4>
-                                    <h5>north carolina, USA</h5>
+                                    <h5>Muzaffarpur, Bihar</h5>
                                     <p class="description">
-                                        Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu
-                                        fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident.
+                                        Completed 10th grade from Dolphin Public School, Muzaffarpur with the score of
+                                        80%. The
+                                        rigorous curriculum challenged me to push my limits and helped me develop a
+                                        strong academic foundation.
                                     </p>
                                 </div><!--/.timeline-content-->
                             </div><!--/.timeline-->
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <div class="single-horizontal-timeline">
                             <div class="experience-time">
-                                <h2>2004 - 2008</h2>
-                                <h3>bachelor <span>of </span> computer science</h3>
+                                <h2>2017 - 2017</h2>
+                                <h3>Class 12</h3>
                             </div><!--/.experience-time-->
                             <div class="timeline-horizontal-border">
                                 <i class="fa fa-circle" aria-hidden="true"></i>
@@ -183,22 +159,23 @@
                             <div class="timeline">
                                 <div class="timeline-content">
                                     <h4 class="title">
-                                        university of north carolina
+                                        R.N.T.S. College
                                     </h4>
-                                    <h5>north carolina, USA</h5>
+                                    <h5>Sitamarhi, Bihar</h5>
                                     <p class="description">
-                                        Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu
-                                        fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident.
+                                        Completed 12th grade in Science stream from RNTS College, Sitamarhi with the
+                                        score of 75%. This was a crucial phase of my life, it taught me important life
+                                        skills such as time-management, adaptability, etc.
                                     </p>
                                 </div><!--/.timeline-content-->
                             </div><!--/.timeline-->
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3">
                         <div class="single-horizontal-timeline">
                             <div class="experience-time">
-                                <h2>2004 - 2008</h2>
-                                <h3>bachelor <span>of </span> creative design</h3>
+                                <h2>2019 - 2022</h2>
+                                <h3>Bachelor<span> of</span> Computer Applications</h3>
                             </div><!--/.experience-time-->
                             <div class="timeline-horizontal-border">
                                 <i class="fa fa-circle" aria-hidden="true"></i>
@@ -208,12 +185,39 @@
                             <div class="timeline">
                                 <div class="timeline-content">
                                     <h4 class="title">
-                                        university of bolton
+                                        Langat Singh College
                                     </h4>
-                                    <h5>bolton, united kingdome</h5>
+                                    <h5>Muzaffarpur, Bihar</h5>
                                     <p class="description">
-                                        Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu
-                                        fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident.
+                                        Completed Bachelor's degree (BCA) from LS College, Muzaffarpur with the score of
+                                        80%. The course helped me develop a strong foundation in computer science,
+                                        programming, and software development.
+                                    </p>
+                                </div><!--/.timeline-content-->
+                            </div><!--/.timeline-->
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="single-horizontal-timeline">
+                            <div class="experience-time">
+                                <h2>2024 - 2025</h2>
+                                <h3>Master <span> of</span> Computer Applications</h3>
+                            </div><!--/.experience-time-->
+                            <div class="timeline-horizontal-border">
+                                <i class="fa fa-circle" aria-hidden="true"></i>
+                                <span class="single-timeline-horizontal spacial-horizontal-line
+									"></span>
+                            </div>
+                            <div class="timeline">
+                                <div class="timeline-content">
+                                    <h4 class="title">
+                                        Vivekananda Global University
+                                    </h4>
+                                    <h5>Jaipur, Rajasthan</h5>
+                                    <p class="description">
+                                        Currently pursuing a Master's degree in Computer Applications (MCA) from
+                                        Vivekananda Global University, Jaipur, through online mode while concurrently
+                                        employed to enhance my knowledge in various technologies.
                                     </p>
                                 </div><!--/.timeline-content-->
                             </div><!--/.timeline-->
@@ -235,73 +239,93 @@
                     <div class="col-md-6">
                         <div class="single-skill-content">
                             <div class="barWrapper">
-                                <span class="progressText">adobe photoshop</span>
+                                <span class="progressText">HTML</span>
                                 <div class="single-progress-txt">
-                                    <div class="progress ">
+                                    <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="90"
-                                            aria-valuemin="10" aria-valuemax="100" style="">
-                                        </div>
+                                            aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
                                     </div>
                                     <h3>90%</h3>
                                 </div>
                             </div><!-- /.barWrapper -->
+
                             <div class="barWrapper">
-                                <span class="progressText">adobe illustrator</span>
+                                <span class="progressText">CSS</span>
                                 <div class="single-progress-txt">
-                                    <div class="progress ">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="85"
-                                            aria-valuemin="10" aria-valuemax="100" style="">
-                                        </div>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="80"
+                                            aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
                                     </div>
-                                    <h3>85%</h3>
+                                    <h3>80%</h3>
                                 </div>
                             </div><!-- /.barWrapper -->
+
                             <div class="barWrapper">
-                                <span class="progressText">adobe after effects</span>
+                                <span class="progressText">jQuery</span>
                                 <div class="single-progress-txt">
-                                    <div class="progress ">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="97"
-                                            aria-valuemin="10" aria-valuemax="100" style="">
-                                        </div>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="75"
+                                            aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div>
                                     </div>
-                                    <h3>97%</h3>
+                                    <h3>75%</h3>
                                 </div>
                             </div><!-- /.barWrapper -->
+
                             <div class="barWrapper">
-                                <span class="progressText">sketch</span>
+                                <span class="progressText">Bootstrap</span>
                                 <div class="single-progress-txt">
-                                    <div class="progress ">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="90"
-                                            aria-valuemin="10" aria-valuemax="100" style="">
-                                        </div>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="75"
+                                            aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div>
                                     </div>
-                                    <h3>90%</h3>
+                                    <h3>75%</h3>
                                 </div>
                             </div><!-- /.barWrapper -->
+
+                            <div class="barWrapper">
+                                <span class="progressText">Laravel</span>
+                                <div class="single-progress-txt">
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="70"
+                                            aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
+                                    </div>
+                                    <h3>70%</h3>
+                                </div>
+                            </div><!-- /.barWrapper -->
+
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="single-skill-content">
                             <div class="barWrapper">
-                                <span class="progressText">html 5</span>
+                                <span class="progressText">PHP</span>
                                 <div class="single-progress-txt">
-                                    <div class="progress ">
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="80"
+                                            aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
+                                    </div>
+                                    <h3>80%</h3>
+                                </div>
+                            </div><!-- /.barWrapper -->
+                            <div class="barWrapper">
+                                <span class="progressText">PhpMyAdmin</span>
+                                <div class="single-progress-txt">
+                                    <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="90"
-                                            aria-valuemin="10" aria-valuemax="100" style="">
-                                        </div>
+                                            aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
                                     </div>
                                     <h3>90%</h3>
                                 </div>
                             </div><!-- /.barWrapper -->
+
                             <div class="barWrapper">
-                                <span class="progressText">css 3 animation</span>
+                                <span class="progressText">Git</span>
                                 <div class="single-progress-txt">
-                                    <div class="progress ">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="85"
-                                            aria-valuemin="10" aria-valuemax="100" style="">
-                                        </div>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="60"
+                                            aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
                                     </div>
-                                    <h3>85%</h3>
+                                    <h3>60%</h3>
                                 </div>
                             </div><!-- /.barWrapper -->
                             <div class="barWrapper">
@@ -312,7 +336,7 @@
                                             aria-valuemin="10" aria-valuemax="100" style="">
                                         </div>
                                     </div>
-                                    <h3>97%</h3>
+                                    <h3>90%</h3>
                                 </div>
                             </div><!-- /.barWrapper -->
                             <div class="barWrapper">
@@ -323,7 +347,7 @@
                                             aria-valuemin="10" aria-valuemax="100" style="">
                                         </div>
                                     </div>
-                                    <h3>90%</h3>
+                                    <h3>80%</h3>
                                 </div>
                             </div><!-- /.barWrapper -->
                         </div>
@@ -347,8 +371,8 @@
                                 <div class="row">
                                     <div class="col-md-5">
                                         <div class="experience-time text-right">
-                                            <h2>2018 - Present</h2>
-                                            <h3>creative director</h3>
+                                            <h2>June 2023 - Present</h2>
+                                            <h3>Full Stack Laravel Developer</h3>
                                         </div><!--/.experience-time-->
                                     </div><!--/.col-->
                                     <div class="col-md-offset-1 col-md-5">
@@ -356,55 +380,21 @@
                                             <div class="timeline-content">
                                                 <h4 class="title">
                                                     <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                                    hoplony tech limited
+                                                    BWJ Tech Solutions Pvt. Ltd.
                                                 </h4>
-                                                <h5>newyork, USA</h5>
+                                                <h5>Hyderbad, India</h5>
                                                 <p class="description">
-                                                    Duis aute irure dolor in reprehenderit in vol patate velit esse
-                                                    cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat
-                                                    cupidatat non proident.
+                                                    In this role, I have developed and maintained web applications using
+                                                    Laravel and associated technologies, ensuring the timely delivery
+                                                    and high-quality output of projects for large organizations. I have
+                                                    managed and maintained projects throughout their lifecycle,
+                                                    providing guidance and support to junior developers to aid in their
+                                                    project development. Additionally, I have interacted with clients to
+                                                    comprehend their requirements, ensuring the success of project
+                                                    delivery.
                                                 </p>
                                             </div><!--/.timeline-content-->
                                         </div><!--/.timeline-->
-                                    </div><!--/.col-->
-                                </div>
-                            </div><!--/.single-timeline-box-->
-                        </li>
-                        <li>
-                            <div class="single-timeline-box fix">
-                                <div class="row">
-                                    <div class="col-md-offset-1 col-md-5 experience-time-responsive">
-                                        <div class="experience-time">
-                                            <h2>
-                                                <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                                2016 - 2018
-                                            </h2>
-                                            <h3>associate design director</h3>
-                                        </div><!--/.experience-time-->
-                                    </div><!--/.col-->
-                                    <div class="col-md-5">
-                                        <div class="timeline">
-                                            <div class="timeline-content text-right">
-                                                <h4 class="title">
-                                                    hoplony tech limited
-                                                </h4>
-                                                <h5>newyork, USA</h5>
-                                                <p class="description">
-                                                    Duis aute irure dolor in reprehenderit in vol patate velit esse
-                                                    cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat
-                                                    cupidatat non proident.
-                                                </p>
-                                            </div><!--/.timeline-content-->
-                                        </div><!--/.timeline-->
-                                    </div><!--/.col-->
-                                    <div class="col-md-offset-1 col-md-5 experience-time-main">
-                                        <div class="experience-time">
-                                            <h2>
-                                                <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                                2016 - 2018
-                                            </h2>
-                                            <h3>associate design director</h3>
-                                        </div><!--/.experience-time-->
                                     </div><!--/.col-->
                                 </div>
                             </div><!--/.single-timeline-box-->
@@ -414,8 +404,8 @@
                                 <div class="row">
                                     <div class="col-md-5">
                                         <div class="experience-time text-right">
-                                            <h2>2013 - 2016</h2>
-                                            <h3>senior UI/UX designer</h3>
+                                            <h2>Macrch 2023 - May 2023</h2>
+                                            <h3>PHP Developer Intern</h3>
                                         </div><!--/.experience-time-->
                                     </div><!--/.col-->
                                     <div class="col-md-offset-1 col-md-5">
@@ -423,80 +413,18 @@
                                             <div class="timeline-content">
                                                 <h4 class="title">
                                                     <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                                    hoplony tech limited
+                                                    BWJ Tech Solutions Pvt. Ltd.
                                                 </h4>
-                                                <h5>newyork, USA</h5>
+                                                <h5>Hyderbad, India</h5>
                                                 <p class="description">
-                                                    Duis aute irure dolor in reprehenderit in vol patate velit esse
-                                                    cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat
-                                                    cupidatat non proident.
-                                                </p>
-                                            </div><!--/.timeline-content-->
-                                        </div><!--/.timeline-->
-                                    </div><!--/.col-->
-                                </div>
-                            </div><!--/.single-timeline-box-->
-                        </li>
-                        <li>
-                            <div class="single-timeline-box fix">
-                                <div class="row">
-                                    <div class="col-md-offset-1 col-md-5 experience-time-responsive">
-                                        <div class="experience-time">
-                                            <h2>
-                                                <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                                2012 - 2013
-                                            </h2>
-                                            <h3>UI/UX designer</h3>
-                                        </div><!--/.experience-time-->
-                                    </div><!--/.col-->
-                                    <div class="col-md-5">
-                                        <div class="timeline">
-                                            <div class="timeline-content text-right">
-                                                <h4 class="title">
-                                                    hoplony tech limited
-                                                </h4>
-                                                <h5>newyork, USA</h5>
-                                                <p class="description">
-                                                    Duis aute irure dolor in reprehenderit in vol patate velit esse
-                                                    cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat
-                                                    cupidatat non proident.
-                                                </p>
-                                            </div><!--/.timeline-content-->
-                                        </div><!--/.timeline-->
-                                    </div><!--/.col-->
-                                    <div class="col-md-offset-1 col-md-5 experience-time-main">
-                                        <div class="experience-time">
-                                            <h2>
-                                                <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                                2012 - 2013
-                                            </h2>
-                                            <h3>UI/UX designer</h3>
-                                        </div><!--/.experience-time-->
-                                    </div><!--/.col-->
-                                </div>
-                            </div><!--/.single-timeline-box-->
-                        </li>
-                        <li>
-                            <div class="single-timeline-box fix">
-                                <div class="row">
-                                    <div class="col-md-5">
-                                        <div class="experience-time text-right">
-                                            <h2>2010 - 2012</h2>
-                                            <h3>frontend developer</h3>
-                                        </div><!--/.experience-time-->
-                                    </div><!--/.col-->
-                                    <div class="col-md-offset-1 col-md-5">
-                                        <div class="timeline">
-                                            <div class="timeline-content">
-                                                <h4 class="title">
-                                                    <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                                    hoplony tech limited
-                                                </h4>
-                                                <h5>newyork, USA</h5>
-                                                <p class="description">
-                                                    Duis aute irure dolor in reprehenderit in vol patate velit esse
-                                                    cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat
-                                                    cupidatat non proident.
+                                                    During my internship i learned various web
+                                                    development tools and their implementation in real-life projects. I
+                                                    acquired extensive knowledge of the Laravel framework, which I
+                                                    utilized to build efficient and scalable web applications.
+                                                    Additionally, I assisted senior developers on multiple projects,
+                                                    gaining practical experience in professional development workflows
+                                                    and further enhancing my ability to contribute effectively to any
+                                                    development team.
                                                 </p>
                                             </div><!--/.timeline-content-->
                                         </div><!--/.timeline-->
@@ -511,54 +439,6 @@
     </section><!--/.experience-->
     <!--experience end -->
 
-    <section id="clients" class="clients">
-        <div class="section-heading text-center">
-            <h2>clients</h2>
-        </div>
-        <div class="clients-area">
-            <div class="container">
-                <div class="owl-carousel owl-theme" id="client">
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c1.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c2.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c3.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c4.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c5.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c6.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                    <div class="item">
-                        <a href="#">
-                            <img src="assets/images/clients/c7.png" alt="brand-image" />
-                        </a>
-                    </div><!--/.item-->
-                </div><!--/.owl-carousel-->
-            </div><!--/.container-->
-        </div><!--/.clients-area-->
-    </section><!--/.clients-->
-    </section><!--/.clients-->
-    <!--clients end -->
     <!--contact start -->
     <section id="contact" class="contact">
         <div class="section-heading text-center">

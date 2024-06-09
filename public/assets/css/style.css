@@ -296,10 +296,10 @@ nav.navbar.bootsnav .navbar-toggle i {
 
 /*.single-about-txt*/
 .single-about-txt h3 {
-    font-size: 18px;
+    font-size: 17px;
     color: #3c4258;
     text-transform: initial;
-    line-height: 1.8;
+    line-height: 1.65;
 }
 
 .single-about-txt p {
@@ -332,6 +332,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 .single-about-img {
     position: relative;
     box-shadow: 0 5px 20px rgba(14, 25, 80, .30);
+    border: 1px ridge grey;
 }
 
 .single-about-img:before {
@@ -341,7 +342,6 @@ nav.navbar.bootsnav .navbar-toggle i {
     left: 0;
     width: 109%;
     height: 100%;
-    background: rgba(31, 44, 108, .3);
 }
 
 .single-about-img img {
@@ -399,11 +399,11 @@ nav.navbar.bootsnav .navbar-toggle i {
 
 .education {
     background: #f9fbfd;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 .education-horizontal-timeline {
-    padding: 80px 0;
+    padding: 30px 0;
 }
 
 /*.education-horizontal-timeline*/
@@ -420,19 +420,20 @@ nav.navbar.bootsnav .navbar-toggle i {
 }
 
 .single-horizontal-timeline .timeline-content h5 {
-    margin: 15px 0;
+    margin: 10px 0;
 }
 
 .single-horizontal-timeline p {
-    color: #999fb3;
+    color: #868c9f;
     max-width: 335px;
+    text-align: justify;
 }
 
 /*.timeline-horizontal-border*/
 .timeline-horizontal-border {
     display: flex;
     align-items: center;
-    padding: 26px 0 30px;
+    padding: 20px 0 20px;
 }
 
 .timeline-horizontal-border i {
@@ -448,9 +449,7 @@ span.single-timeline-horizontal {
     width: 380px;
 }
 
-span.single-timeline-horizontal.spacial-horizontal-line {
-    width: 88px;
-}
+
 
 /*.timeline-horizontal-border*/
 
@@ -462,11 +461,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 .skills {}
 
 .skill-content {
-    padding: 50px 0 80px;
+    padding: 20px 0 20px;
 }
 
 .single-skill-content {
-    padding-top: 100px;
+    padding-top: 40px;
 }
 
 .section-heading h2 {
@@ -475,6 +474,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
     text-transform: uppercase;
     padding-bottom: 20px;
     border-bottom: 1px solid #b9bfc7;
+    color: #9400FF;
 }
 
 .single-progress-txt {
@@ -506,7 +506,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 }
 
 .progress-bar {
-    background: #b636ff;
+    background: #332fd0;
     border-radius: 3px;
     -webkit-transition: width 1.5s ease-in-out;
     -ms-transition: width 1.5s ease-in-out;
@@ -542,12 +542,13 @@ span.single-timeline-horizontal.spacial-horizontal-line {
         7. Experience
 -------------------------------------*/
 .experience {
-    padding: 50px 0 100px;
+    
+    padding: 20px 0 0px;
     border-top: 1px solid #e5ebf2;
 }
 
 .experience-content {
-    padding-top: 100px;
+    padding-top: 30px;
 }
 
 .single-timeline-box {
@@ -605,19 +606,19 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 .timeline-content h4.title {
     font-size: 16px;
     font-weight: 400;
-    text-transform: uppercase;
 }
 
 .timeline-content h5 {
     color: #636a82;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 300;
-    margin: 18px 0 20px;
+    margin: 15px 0 15px;
 }
 
 .main-timeline .description {
     font-size: 14px;
-    color: #999fb3;
+    color: #797e8f;
+    text-align: justify;
 }
 
 .main-timeline .timeline-content.right {
@@ -852,11 +853,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 --------------------------------------*/
 .contact {
     background: #f9fbfd;
-    padding: 50px 0 100px;
+    padding: 20px 0 40px;
 }
 
 .single-contact-box {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .contact-form .form-group {
@@ -865,14 +866,12 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 }
 
 .contact-form .form-control {
-    padding: 25px;
+    padding: 15px;
     font-size: 14px;
-    border: 1px solid #fff;
     border-radius: 0px;
     box-shadow: none;
     outline: 0 !important;
     background: #fff;
-    color: #636a82;
     resize: none;
 }
 
