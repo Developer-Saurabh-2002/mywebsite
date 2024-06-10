@@ -227,7 +227,7 @@ nav.navbar.bootsnav .navbar-toggle i {
     background-size: cover;
     background-position: center;
     height: 400px;
-    margin-top: 5.5%;
+    margin-top: 70px;
 }
 
 .welcome-hero:before {
@@ -265,8 +265,8 @@ nav.navbar.bootsnav .navbar-toggle i {
     border-radius: 5px;
     text-transform: capitalize;
     color: #fff;
-    background: #379237;
-    border: 1px solid #184118;
+    background: #a616f9;
+    border: 1px solid #610596;
     box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
     -webkit-transition: 0.3s linear;
     -moz-transition: 0.3s linear;
@@ -277,7 +277,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 
 .header-text a:hover {
     box-shadow: 0 5px 20px rgba(0, 0, 0, .4);
-    background: #9f00ff;
+    background: #7503b8;
     border: 1px solid #9f00ff;
 }
 
@@ -400,6 +400,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 .education {
     background: #f9fbfd;
     padding-top: 20px;
+    border-top: 1px solid #e5ebf2;
 }
 
 .education-horizontal-timeline {
@@ -462,6 +463,7 @@ span.single-timeline-horizontal {
 
 .skill-content {
     padding: 20px 0 20px;
+    border-top: 1px solid #e5ebf2;
 }
 
 .single-skill-content {
@@ -483,7 +485,7 @@ span.single-timeline-horizontal {
 
 .single-progress-txt h3 {
     width: 10%;
-    color: #a606c3;
+    color: #332fd0;
     position: relative;
     top: 6px;
     left: 20px;
@@ -542,7 +544,7 @@ span.single-timeline-horizontal {
         7. Experience
 -------------------------------------*/
 .experience {
-    
+
     padding: 20px 0 0px;
     border-top: 1px solid #e5ebf2;
 }
@@ -562,6 +564,7 @@ span.single-timeline-horizontal {
 
 .experience-time h2 {
     font-weight: 400;
+    color: #000;
 }
 
 .experience-time h3 {
@@ -854,67 +857,94 @@ span.single-timeline-horizontal {
 .contact {
     background: #f9fbfd;
     padding: 20px 0 40px;
+    border-top: 1px solid #e5ebf2;
 }
 
 .single-contact-box {
-    padding-top: 50px;
-}
-
-.contact-form .form-group {
-    margin-bottom: 20px;
-
-}
-
-.contact-form .form-control {
-    padding: 15px;
-    font-size: 14px;
-    border-radius: 0px;
-    box-shadow: none;
-    outline: 0 !important;
-    background: #fff;
-    resize: none;
-}
-
-/*--contct button--*/
-.contact-form .single-contact-btn {
-    display: flex;
-    align-items: center;
+    padding-top: 30px;
     justify-content: center;
-    height: 50px;
-    text-transform: capitalize;
-    margin-top: 3px;
-    background: #b636ff;
-    border: 1px solid #b636ff;
-    cursor: pointer;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
-    -webkit-transition: .5s;
-    -moz-transition: .5s;
-    -ms-transition: .5s;
-    -o-transition: .5s;
-    transition: .5s;
 }
 
-.contact-form .single-contact-btn .contact-btn,
-.contact-form .single-contact-btn .contact-btn:focus {
-    margin-top: 0px;
-    outline: 0 !important;
-    border: 0;
-    color: #fff;
-    border-radius: 0px;
-    font-size: 14px;
-    -webkit-transition: .5s;
-    -moz-transition: .5s;
-    -ms-transition: .5s;
-    -o-transition: .5s;
-    transition: .5s;
+.fa-3x {
+    margin-top: 12px;
+}
+
+.card {
+    border: 1px solid #c2c5c9;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23) !important;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #c2c5c9;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #0079FF;
+    text-align: center;
+    padding: 0.75rem 1.25rem;
+}
+
+.card-body {
+    padding: 1.25rem;
+    padding-top: .15rem;
+    font-size: 1rem;
+    color: #757575;
+    background-color: #ffffff;
+}
+
+.card-body p {
+    margin-bottom: 1rem;
+}
+
+.card-body .info {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
 
 }
 
-.single-contact-btn:hover {
-    background: #9f00ff;
-    border: 1px solid #9f00ff;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, .2);
+.card-body .info p {
+    margin-bottom: 0;
+    font-size: 1.5rem;
+    color: #212121;
 }
+
+.myhr {
+    border-top: 1px solid #c2c5c9;
+    margin: 0 -12.5px;
+}
+
+.card a.btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 1rem;
+    padding: 0.4rem;
+    font-size: 1.65rem;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 0.25rem;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.card a.btn:hover {
+    background-color: #0056b3;
+    text-decoration: none;
+}
+
+.carousel-item img {
+    height: 180px;
+    object-fit: cover;
+}
+
 
 /*--contct button--*/
 
@@ -940,8 +970,9 @@ span.single-timeline-horizontal {
 }
 
 .single-contact-add-info h3 {
-    color: #636a82;
     font-weight: 500;
+    color: #000;
+    font-size: 20px;
 }
 
 .single-contact-add-info p {
@@ -951,7 +982,7 @@ span.single-timeline-horizontal {
 }
 
 .single-contact-add-info {
-    margin-bottom: 26px;
+    margin-bottom: 20px;
 }
 
 /*.contact-add-info */
@@ -982,7 +1013,7 @@ span.single-timeline-horizontal {
 .hm-footer-copyright p {
     color: #888ea5;
     text-transform: capitalize;
-    padding: 38px 0;
+    padding: 8px 0;
 }
 
 .hm-footer-copyright p a {
@@ -1034,6 +1065,74 @@ span.single-timeline-horizontal {
     animation-iteration-count: infinite;
     animation-duration: 1s;
 }
+
+/* media max width 500 */
+
+@media(max-width: 500px) {
+
+    .navbar-header a.navbar-brand,
+    .navbar-header a.navbar-brand:hover,
+    .navbar-header a.navbar-brand:focus {
+        font-size: 27px;
+    }
+
+    .about {
+        padding: 10px 5px;
+    }
+
+    .section-heading h2 {
+        padding-bottom: 10px;
+    }
+
+    .single-about-img img {
+        height: auto;
+    }
+    .single-about-img {
+        margin-top: 20px;
+    }
+    .single-about-txt h3 {
+        font-size: 15px;
+        line-height: 1.5;
+    }
+    .education,.skill-content,.contact,.experience,.single-contact-box {
+        padding-top: 10px ;
+        padding-bottom: 10px ;
+
+    }
+    .education-horizontal-timeline {
+        padding: 0;
+    }
+    .ppppp {
+        padding-top: 0;
+    }
+    .card-header {
+        font-size: 1.75rem;
+    }
+    .card{
+        margin-bottom: 20px;
+    }
+    .time2{
+        border-top: 2px solid #999fb3;
+        border-width: 100%;
+        padding-top: 20px;
+        margin-top: -70px;
+        margin-bottom: 5px;
+    }
+    .fa-3x{
+        margin-left: 25%!important;
+        font-size: 4em!important;
+        margin-bottom: 5px!important;
+    }
+    .header-text h2 {
+        font-size: 40px;
+    }
+    .header-text p {
+        font-size: 16px;
+        margin: 25px 0px;
+    }
+  
+}
+
 
 @keyframes example {
     0% {

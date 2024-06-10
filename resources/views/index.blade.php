@@ -47,8 +47,8 @@
                             <li class=" smooth-menu"><a href="#about">About Me</a></li>
                             <li class=" smooth-menu"><a href="#education">education</a></li>
                             <li class="smooth-menu"><a href="#skills">skills</a></li>
+                            <li class="smooth-menu"><a href="#project">project</a></li>
                             <li class="smooth-menu"><a href="#experience">experience</a></li>
-                            <li class="smooth-menu"><a href="#clients">clients</a></li>
                             <li class="smooth-menu"><a href="#contact">contact</a></li>
                         </ul><!--/.nav -->
                     </div><!-- /.navbar-collapse -->
@@ -67,7 +67,7 @@
                     <div class="header-text">
                         <h2>hi<span>,</span> i am <br> Saurabh Kumar<span>.</span> </h2>
                         <p>Full Stack Laravel Developer</p>
-                        <a href="assets/download/browney.txt" download>download resume</a>
+                        <a href="assets/Saurabh_Kumar.pdf" download>download resume</a>
                     </div><!--/.header-text-->
                 </div><!--/.col-->
             </div><!-- /.row-->
@@ -296,7 +296,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="single-skill-content">
+                        <div class="single-skill-content ppppp">
                             <div class="barWrapper">
                                 <span class="progressText">PHP</span>
                                 <div class="single-progress-txt">
@@ -357,6 +357,216 @@
         </div><!-- /.skill-content-->
     </section><!--/.skills-->
     <!--skills end -->
+    <section id="project" class="contact">
+        <div class="section-heading text-center">
+            <h2>Project</h2>
+        </div>
+        <div class="container">
+            <div class="contact-content">
+                <div class="single-contact-box">
+                    <div class="row">
+                        <!-- Card 1 -->
+                        <div class="col-md-6 ">
+                            <div class="card">
+                                <div class="card-header">
+                                    Beauty Parlour Management System
+                                </div>
+                                <img src="assets/images/p_1.png" class="card-img-top"
+                                    alt="Beauty Parlour Management System">
+                                <div class="card-body">
+                                    <hr class="myhr">
+                                    <div class="info">
+                                        <p>Acedemic Project</p>
+                                        <p>Jan 2023 - Mar 2023</p>
+                                    </div>
+                                    <hr class="myhr">
+                                    <p class="card-text">
+                                        An admin manages customer records, appointments, approvals, enquiries, updates,
+                                        and invoices. Users can access information, sign up, log in, book and manage
+                                        appointments, profile, and password at the beauty parlour.
+                                    </p>
+                                    <hr class="myhr">
+                                    <a href="https://developersaurabh.in/bpms/" class="btn btn-primary" target="_blank">Visit
+                                        Website</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card 2 -->
+                        <div class="col-md-6 ">
+                            <div class="card">
+                                <div class="card-header">
+                                    My Personal Website
+                                </div>
+                                <img src="assets/images/p_2.png" class="card-img-top" alt="My Personal Website">
+                                <div class="card-body">
+                                    <hr class="myhr">
+                                    <div class="info">
+                                        <p>Personal Project</p>
+                                        <p>March 2023</p>
+                                    </div>
+                                    <hr class="myhr">
+                                    <p class="card-text">
+                                        Explore my professional identity through this website, which features detailed
+                                        pages showcasing my background, expertise, and capabilities comprehensively,
+                                        allowing you to gain insight into my professional journey and skills.
+                                    </p>
+                                    <hr class="myhr">
+                                    <a href="https://www.developersaurabh.in/" class="btn btn-primary" target="_blank">Visit
+                                        Website</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card 3 -->
+                        <div class="col-md-6 ">
+                            <div class="card">
+                                <div class="card-header">
+                                    Order Credit Release
+                                </div>
+                                <img src="assets/images/p_8.png" class="card-img-top" alt="Order Credit Release">
+                                <div class="card-body">
+                                    <hr class="myhr">
+                                    <div class="info">
+                                        <p>Truflo Pipes</p>
+                                        <p>June 2023 - July 2023</p>
+                                    </div>
+                                    <hr class="myhr">
+                                    <p class="card-text">
+                                        Truflo Pipes' internal app streamlines order processing, interfaces with SAP for
+                                        data and calculations, and includes a multi-level user hierarchy for order
+                                        approval and fulfilment, enhancing efficiency and integration.
+                                    </p>
+                                    <hr class="myhr">
+                                    <a href="https://sorel.truflopipes.com/" class="btn btn-primary" target="_blank">Visit Website</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card 4 -->
+                        <div class="col-md-6 ">
+                            <div class="card">
+                                <div class="card-header">
+                                    Audit Management System
+                                </div>
+                                <img src="assets/images/p_7.png" class="card-img-top" alt="Audit Management System">
+                                <div class="card-body">
+                                    <hr class="myhr">
+                                    <div class="info">
+                                        <p>Somany Impresa</p>
+                                        <p>Aug 2023 - Oct 2023</p>
+                                    </div>
+                                    <hr class="myhr">
+                                    <p class="card-text">
+                                        This internal Audit Management System for Somany Impresa Group facilitates the
+                                        management of the audit process across the organization, with features to
+                                        streamline audit workflows, assign tasks, track progress, and generate reports.
+                                    </p>
+                                    <hr class="myhr">
+                                    <a href="https://internalaudit.somanyimpresa.com/" class="btn btn-primary" target="_blank">Visit
+                                        Website</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card 5 -->
+                        <div class="col-md-6 ">
+                            <div class="card">
+                                <div class="card-header">
+                                    VMS & CRS
+                                </div>
+                                <img src="assets/images/p_6.png" class="card-img-top" alt="VMS & CRS">
+                                <div class="card-body">
+                                    <hr class="myhr">
+                                    <div class="info">
+                                        <p>Somany Impresa</p>
+                                        <p>Nov 2023 - Mar 2024</p>
+                                    </div>
+                                    <hr class="myhr">
+                                    <p class="card-text">
+                                        Somany Impresa Group's internal project manages visitor and cab requisitions,
+                                        supporting various user roles to request and oversee approval flow for visitors
+                                        and cabs across multiple group plants.
+                                    </p>
+                                    <hr class="myhr">
+                                    <a href="https://vms.somanyimpresa.com/" class="btn btn-primary" target="_blank">Visit Website</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card 6 -->
+                        <div class="col-md-6 ">
+                            <div class="card">
+                                <div class="card-header">
+                                    Test Certificate
+                                </div>
+                                <img src="assets/images/p_5.png" class="card-img-top" alt="Test Certificate">
+                                <div class="card-body">
+                                    <hr class="myhr">
+                                    <div class="info">
+                                        <p>Arjas Steel</p>
+                                        <p>Apr 2024 - May 2024</p>
+                                    </div>
+                                    <hr class="myhr">
+                                    <p class="card-text">
+                                        This internal application generates test certificates based on test results,
+                                        including multiple calculations and multi-level approvals, ultimately generating
+                                        a PDF test certificate based on a standard template.
+                                    </p>
+                                    <hr class="myhr">
+                                    <a class="btn btn-primary" target="_blank" disabled>Visit Website</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card 7 -->
+                        <div class="col-md-6 ">
+                            <div class="card">
+                                <div class="card-header">
+                                    One Login
+                                </div>
+                                <img src="assets/images/p_4.png" class="card-img-top" alt="One Login">
+                                <div class="card-body">
+                                    <hr class="myhr">
+                                    <div class="info">
+                                        <p>Somany Impresa</p>
+                                        <p>May 2024</p>
+                                    </div>
+                                    <hr class="myhr">
+                                    <p class="card-text">
+                                        This internal project for the Somany Impresa Group manages access to all web
+                                        applications within the organization through Microsoft Azure AD authentication,
+                                        allowing seamless access to other applications.
+                                    </p>
+                                    <hr class="myhr">
+                                    <a href="https://apphub.somanyimpresa.com/" class="btn btn-primary" target="_blank">Visit
+                                        Website</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Card 8 -->
+                        <div class="col-md-6 ">
+                            <div class="card">
+                                <div class="card-header">
+                                    Ticketing Tool
+                                </div>
+                                <img src="assets/images/p_3.png" class="card-img-top" alt="Ticketing Tool">
+                                <div class="card-body">
+                                    <hr class="myhr">
+                                    <div class="info">
+                                        <p>PMTS - Powermech</p>
+                                        <p>June 2024</p>
+                                    </div>
+                                    <hr class="myhr">
+                                    <p class="card-text">
+                                        A standard ticketing tool or helpdesk application for PMTS. Users can raise
+                                        tickets assigned to consultants for resolution, with features for real-time chat
+                                        and file sharing.
+                                    </p>
+                                    <hr class="myhr">
+                                    <a href="https://helpdesk.pmts.in/" class="btn btn-primary" target="_blank">Visit Website</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.row-->
+            </div><!--/.contact-content-->
+        </div><!--/.container-->
+    </section><!--/.contact-->
     <!--experience start -->
     <section id="experience" class="experience">
         <div class="section-heading text-center">
@@ -400,11 +610,11 @@
                             </div><!--/.single-timeline-box-->
                         </li>
                         <li>
-                            <div class="single-timeline-box fix">
+                            <div class="single-timeline-box fix  time2">
                                 <div class="row">
                                     <div class="col-md-5">
                                         <div class="experience-time text-right">
-                                            <h2>Macrch 2023 - May 2023</h2>
+                                            <h2>March 2023 - May 2023</h2>
                                             <h3>PHP Developer Intern</h3>
                                         </div><!--/.experience-time-->
                                     </div><!--/.col-->
@@ -446,84 +656,69 @@
         </div>
         <div class="container">
             <div class="contact-content">
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-5 col-sm-6">
-                        <div class="single-contact-box">
-                            <div class="contact-form">
-                                <form>
-                                    <div class="row">
-                                        <div class="col-sm-6 col-xs-12">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" id="name"
-                                                    placeholder="Name*" name="name">
-                                            </div><!--/.form-group-->
-                                        </div><!--/.col-->
-                                        <div class="col-sm-6 col-xs-12">
-                                            <div class="form-group">
-                                                <input type="email" class="form-control" id="email"
-                                                    placeholder="Email*" name="email">
-                                            </div><!--/.form-group-->
-                                        </div><!--/.col-->
-                                    </div><!--/.row-->
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control" id="subject"
-                                                    placeholder="Subject" name="subject">
-                                            </div><!--/.form-group-->
-                                        </div><!--/.col-->
-                                    </div><!--/.row-->
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <div class="form-group">
-                                                <textarea class="form-control" rows="8" id="comment" placeholder="Message"></textarea>
-                                            </div><!--/.form-group-->
-                                        </div><!--/.col-->
-                                    </div><!--/.row-->
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <div class="single-contact-btn">
-                                                <a class="contact-btn" href="#" role="button">submit</a>
-                                            </div><!--/.single-single-contact-btn-->
-                                        </div><!--/.col-->
-                                    </div><!--/.row-->
-                                </form><!--/form-->
-                            </div><!--/.contact-form-->
-                        </div><!--/.single-contact-box-->
-                    </div><!--/.col-->
-                    <div class="col-md-offset-1 col-md-5 col-sm-6">
-                        <div class="single-contact-box">
-                            <div class="contact-adress">
-                                <div class="contact-add-head">
-                                    <h3>browny star</h3>
-                                    <p>uI/uX designer</p>
-                                </div>
-                                <div class="contact-add-info">
-                                    <div class="single-contact-add-info">
-                                        <h3>phone</h3>
-                                        <p>987-123-6547</p>
-                                    </div>
-                                    <div class="single-contact-add-info">
-                                        <h3>email</h3>
-                                        <p>browny@info.com</p>
-                                    </div>
-                                    <div class="single-contact-add-info">
-                                        <h3>website</h3>
-                                        <p>www.brownsine.com</p>
-                                    </div>
-                                </div>
-                            </div><!--/.contact-adress-->
-                            <div class="hm-foot-icon">
-                                <ul>
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li><!--/li-->
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li><!--/li-->
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li><!--/li-->
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li><!--/li-->
-                                    <li><a href="#"><i class="fa fa-instagram"></i></a></li><!--/li-->
-                                </ul><!--/ul-->
-                            </div><!--/.hm-foot-icon-->
-                        </div><!--/.single-contact-box-->
-                    </div><!--/.col-->
+                <div class="single-contact-box">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="single-contact-add-info">
+                                <h3>saurabh Kumar</h3>
+                                <a>Full Stack Laravel Developer</a>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="single-contact-add-info">
+                                <h3>phone</h3>
+                                <a href="tel:+91 7488944009">+91 7488944009</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="single-contact-add-info">
+                                <h3>email</h3>
+                                <a href="mailto:developersaurabh2002@gmail.com">developersaurabh2002@gmail.com</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="single-contact-add-info">
+                                <h3>Website</h3>
+                                <a href="https://www.developersaurabh.in">www.developersaurabh.in</a>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="single-contact-add-info">
+                                <h3>Address</h3>
+                                <a href="https://maps.app.goo.gl/HR13XpDLdXsQZwbg6">Village:- Ganguli, Post:- Thahar,
+                                    PS-
+                                    Aurai<br> District:- Muzaffarpur, Bihar, India (843328)</a>
+                            </div>
+                        </div>
+                        <div class="col-md-1"></div>
+                        <div class="col-md-1 col-sm-4 col-xs-4">
+                            <a href="https://www.linkedin.com/in/developersaurabh2002/" target="_blank"><i
+                                    class="fa-brands fa-linkedin fa-3x " style="color: #0A66C2;"
+                                    aria-hidden="true"></i></a>
+                        </div>
+                        <div class="col-md-1 col-sm-4 col-xs-4">
+                            <a href="mailto: developersaurabh2002@gmail.com" target="_blank"><i style="color: red;"
+                                    class="fa-regular fa-envelope fa-3x " aria-hidden="true"></i></a>
+                        </div>
+                        <div class="col-md-1 col-sm-4 col-xs-4">
+                            <a href="tel: 7488944009" target="_blank"> <i style="color: blue;"
+                                    class="fa-solid fa-phone fa-3x " aria-hidden="true"></i></a>
+                        </div>
+                        <div class="col-md-1 col-sm-4 col-xs-4">
+                            <a href="https://wa.me/917488944009" target="_blank"><i style="color: green"
+                                    class="fa-brands fa-whatsapp fa-3x " aria-hidden="true"></i></a>
+                        </div>
+                        <div class="col-md-1 col-sm-4 col-xs-4">
+                            <a href="https://www.facebook.com/bhumihar.saurabh.parashar.10" target="_blank"><i
+                                    style="color: darkblue;" class="fa-brands fa-facebook fa-3x "
+                                    aria-hidden="true"></i></a>
+                        </div>
+                        <div class="col-md-1 col-sm-4 col-xs-4">
+                            <a href="https://instagram.com/saurabh__parashar?igshid=ZDdkNTZiNTM=" target="_blank"><i
+                                    style="color: crimson;" class="fa-brands fa-instagram fa-3x "
+                                    aria-hidden="true"></i></a>
+                        </div>
+                    </div>
                 </div><!--/.row-->
             </div><!--/.contact-content-->
         </div><!--/.container-->
@@ -534,8 +729,7 @@
         <div class="container">
             <div class="hm-footer-copyright text-center">
                 <p>
-                    &copy; copyright yourname. design and developed by <a
-                        href="https://www.themesine.com/">themesine</a>
+                    copyright &copy; design and developed by Saurabh Kumar
                 </p><!--/p-->
             </div><!--/.text-center-->
         </div><!--/.container-->
@@ -552,6 +746,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
     <!--bootstrap.min.js-->
     <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/fontawesome.js" crossorigin="anonymous"></script>
     <!-- bootsnav js -->
     <script src="assets/js/bootsnav.js"></script>
     <!-- jquery.sticky.js -->
@@ -567,6 +762,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
     <!--Custom JS-->
     <script src="assets/js/custom.js"></script>
+
 </body>
 
 </html>
