@@ -371,7 +371,7 @@
                                 <div class="card-header">
                                     Beauty Parlour Management System
                                 </div>
-                                <img src="assets/images/p_1.png" class="card-img-top"
+                                <img src="assets/images/P1.png" class="card-img-top"
                                     alt="Beauty Parlour Management System">
                                 <div class="card-body">
                                     <hr class="myhr">
@@ -397,7 +397,7 @@
                                 <div class="card-header">
                                     My Personal Website
                                 </div>
-                                <img src="assets/images/p_2.png" class="card-img-top" alt="My Personal Website">
+                                <img src="assets/images/P2.png" class="card-img-top" alt="My Personal Website">
                                 <div class="card-body">
                                     <hr class="myhr">
                                     <div class="info">
@@ -422,21 +422,19 @@
                                 <div class="card-header">
                                     Order Credit Release
                                 </div>
-                                <img src="assets/images/p_8.png" class="card-img-top" alt="Order Credit Release">
+                                <img src="assets/images/P8.png" class="card-img-top" alt="Order Credit Release">
                                 <div class="card-body">
                                     <hr class="myhr">
                                     <div class="info">
-                                        <p>Truflo Pipes</p>
+                                        <p>Professional Project</p>
                                         <p>June 2023 - July 2023</p>
                                     </div>
                                     <hr class="myhr">
                                     <p class="card-text">
-                                        Truflo Pipes' internal app streamlines order processing, interfaces with SAP for
+                                        It is internal app streamlines order processing, interfaces with SAP for
                                         data and calculations, and includes a multi-level user hierarchy for order
                                         approval and fulfilment, enhancing efficiency and integration.
                                     </p>
-                                    <hr class="myhr">
-                                    <a href="https://sorel.truflopipes.com/" class="btn btn-primary" target="_blank">Visit Website</a>
                                 </div>
                             </div>
                         </div>
@@ -446,22 +444,20 @@
                                 <div class="card-header">
                                     Audit Management System
                                 </div>
-                                <img src="assets/images/p_7.png" class="card-img-top" alt="Audit Management System">
+                                <img src="assets/images/P7.png" class="card-img-top" alt="Audit Management System">
                                 <div class="card-body">
                                     <hr class="myhr">
                                     <div class="info">
-                                        <p>Somany Impresa</p>
+                                        <p>Professional Project</p>
                                         <p>Aug 2023 - Oct 2023</p>
                                     </div>
                                     <hr class="myhr">
                                     <p class="card-text">
-                                        This internal Audit Management System for Somany Impresa Group facilitates the
+                                        This internal Audit Management System facilitates the
                                         management of the audit process across the organization, with features to
                                         streamline audit workflows, assign tasks, track progress, and generate reports.
                                     </p>
-                                    <hr class="myhr">
-                                    <a href="https://internalaudit.somanyimpresa.com/" class="btn btn-primary" target="_blank">Visit
-                                        Website</a>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -471,21 +467,19 @@
                                 <div class="card-header">
                                     VMS & CRS
                                 </div>
-                                <img src="assets/images/p_6.png" class="card-img-top" alt="VMS & CRS">
+                                <img src="assets/images/P6.png" class="card-img-top" alt="VMS & CRS">
                                 <div class="card-body">
                                     <hr class="myhr">
                                     <div class="info">
-                                        <p>Somany Impresa</p>
+                                        <p>Professional Project</p>
                                         <p>Nov 2023 - Mar 2024</p>
                                     </div>
                                     <hr class="myhr">
                                     <p class="card-text">
-                                        Somany Impresa Group's internal project manages visitor and cab requisitions,
+                                       It is internal project manages visitor and cab requisitions,
                                         supporting various user roles to request and oversee approval flow for visitors
-                                        and cabs across multiple group plants.
+                                        and cabs across multiple group plants and locations.
                                     </p>
-                                    <hr class="myhr">
-                                    <a href="https://vms.somanyimpresa.com/" class="btn btn-primary" target="_blank">Visit Website</a>
                                 </div>
                             </div>
                         </div>
@@ -495,11 +489,11 @@
                                 <div class="card-header">
                                     Test Certificate
                                 </div>
-                                <img src="assets/images/p_5.png" class="card-img-top" alt="Test Certificate">
+                                <img src="assets/images/P5.png" class="card-img-top" alt="Test Certificate">
                                 <div class="card-body">
                                     <hr class="myhr">
                                     <div class="info">
-                                        <p>Arjas Steel</p>
+                                        <p>Professional Project</p>
                                         <p>Apr 2024 - May 2024</p>
                                     </div>
                                     <hr class="myhr">
@@ -508,8 +502,6 @@
                                         including multiple calculations and multi-level approvals, ultimately generating
                                         a PDF test certificate based on a standard template.
                                     </p>
-                                    <hr class="myhr">
-                                    <a class="btn btn-primary" target="_blank" disabled>Visit Website</a>
                                 </div>
                             </div>
                         </div>
@@ -519,22 +511,20 @@
                                 <div class="card-header">
                                     One Login
                                 </div>
-                                <img src="assets/images/p_4.png" class="card-img-top" alt="One Login">
+                                <img src="assets/images/P4.png" class="card-img-top" alt="One Login">
                                 <div class="card-body">
                                     <hr class="myhr">
                                     <div class="info">
-                                        <p>Somany Impresa</p>
+                                        <p>Professional Project</p>
                                         <p>May 2024</p>
                                     </div>
                                     <hr class="myhr">
                                     <p class="card-text">
-                                        This internal project for the Somany Impresa Group manages access to all web
+                                        This internal project to manage the access to all web
                                         applications within the organization through Microsoft Azure AD authentication,
                                         allowing seamless access to other applications.
                                     </p>
-                                    <hr class="myhr">
-                                    <a href="https://apphub.somanyimpresa.com/" class="btn btn-primary" target="_blank">Visit
-                                        Website</a>
+                                   
                                 </div>
                             </div>
                         </div>
@@ -544,21 +534,19 @@
                                 <div class="card-header">
                                     Ticketing Tool
                                 </div>
-                                <img src="assets/images/p_3.png" class="card-img-top" alt="Ticketing Tool">
+                                <img src="assets/images/P3.png" class="card-img-top" alt="Ticketing Tool">
                                 <div class="card-body">
                                     <hr class="myhr">
                                     <div class="info">
-                                        <p>PMTS - Powermech</p>
+                                        <p>Professional Project</p>
                                         <p>June 2024</p>
                                     </div>
                                     <hr class="myhr">
                                     <p class="card-text">
-                                        A standard ticketing tool or helpdesk application for PMTS. Users can raise
+                                        A standard ticketing tool or helpdesk application for a organisation. Users can raise
                                         tickets assigned to consultants for resolution, with features for real-time chat
                                         and file sharing.
                                     </p>
-                                    <hr class="myhr">
-                                    <a href="https://helpdesk.pmts.in/" class="btn btn-primary" target="_blank">Visit Website</a>
                                 </div>
                             </div>
                         </div>
